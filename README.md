@@ -47,18 +47,15 @@
 
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?qkrcodl=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?qkrcodl=anuraghazra&hide=contribs,prs)
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?qkrcodl=anuraghazra&count_private=true)
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?qkrcodl=anuraghazra&show_icons=true)
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?qkrcodl=anuraghazra&show_icons=true&theme=radical)
-
 </div>
 
 
 
 <br/>
 
+<br>
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fqkrcodl&count_bg=%23B9FF83&title_bg=%23F5A4A4&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+<br>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=footer&fontSize=90)
 
