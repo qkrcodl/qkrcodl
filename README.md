@@ -8,7 +8,7 @@
 안녕하세요, 저는 박채이입니다. 👋.<br/>
 ✨저의 목표는 정보처리기사 합격하기입니다.✨<br/>
 !오늘도 좋은 하루 보내세요!
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=qkrcodl)](https://solved.ac/qkrcodl)<br/>
+
 
 
 <br/><br/>
